@@ -457,7 +457,7 @@ nav .navbar::after {
     display: block;
     width: 100%;
     height: 69px;
-    background-image: url(/icon/shadow.svg);
+    background-image: url(icon/shadow.svg);
     bottom: -22px;
     position: absolute;
     background-repeat: no-repeat;
@@ -469,7 +469,7 @@ nav .navbar::after {
 
 header.hero {
     height: 600px;
-    background-image: url(/images/hero.png);
+    background-image: url(images/hero.png);
     background-position: 0% 0%;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -582,7 +582,7 @@ section.top-product .container h1 {
     display: block;
     width: 100%;
     height: 90px;
-    background-image: url(/icon/hr.svg);
+    background-image: url(icon/hr.svg);
     background-repeat: no-repeat;
     background-position: center;
     bottom: 15px;
@@ -716,7 +716,7 @@ section.about-meal .container h1 {
     display: block;
     width: 100%;
     height: 90px;
-    background-image: url(/icon/hr.svg);
+    background-image: url(icon/hr.svg);
     background-repeat: no-repeat;
     background-position: center;
     top: 15px;
@@ -774,7 +774,7 @@ section.our-service .container h1{
     display: block;
     width: 100%;
     height: 90px;
-    background-image: url(/icon/hr.svg);
+    background-image: url(icon/hr.svg);
     background-repeat: no-repeat;
     background-position: center;
     top: 30px;
@@ -854,7 +854,7 @@ section.our-service .service-card::after{
     display: block;
     width: 100%;
     height: 69px;
-    background-image: url(/icon/shadow-sm.svg);
+    background-image: url(icon/shadow-sm.svg);
     bottom: -22px;
     position: absolute;
     left: 50%;
@@ -872,7 +872,7 @@ section.our-service .service-card::after{
         display: block;
         width: 100%;
         height: 95px;
-        background-image: url(/icon/hr.svg);
+        background-image: url(icon/hr.svg);
         background-repeat: no-repeat;
         background-position: center;
         top: 4vh;
@@ -933,7 +933,7 @@ section.our-service .service-card::after{
         display: block;
         width: 100%;
         height: 95px;
-        background-image: url(/icon/hr.svg);
+        background-image: url(icon/hr.svg);
         background-repeat: no-repeat;
         background-position: center;
         top: 4vh;
@@ -1081,7 +1081,7 @@ section.contect-us .contect-info-wrap h1{
     display: block;
     width: 100%;
     height: 95px;
-    background-image: url(/icon/hr.svg);
+    background-image: url(icon/hr.svg);
     background-repeat: no-repeat;
     background-position: center;
     top: 4vh;
